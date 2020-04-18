@@ -1,0 +1,20 @@
+{
+  "name": "bigno",
+  "version": "1.0.0",
+  "description": "A powerful quick develp tool",
+  "main": "main.js",
+  "repository": "https://github.com/AllenMaz/Bigno.git",
+  "keywords": [
+    "Electron",
+    "Qucik Develop"
+  ],
+  "scripts": {
+    "test": "test",
+    "start": "electron ."
+  },
+  "author": "allen ma",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^8.2.2"
+  }
+}
